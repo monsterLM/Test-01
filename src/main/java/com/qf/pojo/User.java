@@ -6,4 +6,8 @@ package com.qf.pojo;
  * @date 2022/5/25 17:39
  */
 public class User {
+
+    private Integer id;
+    private String name;
+
 }
